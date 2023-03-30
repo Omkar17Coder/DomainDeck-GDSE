@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/DomainDeck-GDSE/static/css/main.8c470f3a.css",
+    "main.js": "/DomainDeck-GDSE/static/js/main.936fc99d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/DomainDeck-GDSE/static/js/787.28cb0dcd.chunk.js",
+    "static/media/img2.jpg": "/DomainDeck-GDSE/static/media/img2.79ff905892d568a03ca4.jpg",
+    "static/media/img1.jpg": "/DomainDeck-GDSE/static/media/img1.7306da63da892628daf6.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.3.0": "/DomainDeck-GDSE/static/media/fontawesome-webfont.fd7873675ac92feb54ea.svg",
+    "static/media/fontawesome-webfont.ttf?v=4.3.0": "/DomainDeck-GDSE/static/media/fontawesome-webfont.45f9f92a5bfbad4be12f.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.3.0": "/DomainDeck-GDSE/static/media/fontawesome-webfont.c589f72df384e3ef078b.woff",
+    "static/media/fontawesome-webfont.eot": "/DomainDeck-GDSE/static/media/fontawesome-webfont.03605b2467d43a9f4c63.eot",
+    "static/media/fontawesome-webfont.woff2?v=4.3.0": "/DomainDeck-GDSE/static/media/fontawesome-webfont.fb685a7c7e4aae2d4d71.woff2",
+    "static/media/blog-left-dec.jpg": "/DomainDeck-GDSE/static/media/blog-left-dec.7c88671422d0ffac1607.jpg",
+    "static/media/services-image-04.jpg": "/DomainDeck-GDSE/static/media/services-image-04.bb0fd35a6c52aa0dd774.jpg",
+    "static/media/about-dec-v3.png": "/DomainDeck-GDSE/static/media/about-dec-v3.6f443baf2290bac1b5b9.png",
+    "static/media/services-left-dec.jpg": "/DomainDeck-GDSE/static/media/services-left-dec.40e9ec4b89c1e9ab7e30.jpg",
+    "static/media/services-image-03.jpg": "/DomainDeck-GDSE/static/media/services-image-03.1562ef7e9c46ef8b02f0.jpg",
+    "static/media/services-image-02.jpg": "/DomainDeck-GDSE/static/media/services-image-02.bd836688ef01362866bc.jpg",
+    "static/media/portfolio-left-dec.jpg": "/DomainDeck-GDSE/static/media/portfolio-left-dec.a15fccc1c5b0b9a7db98.jpg",
+    "static/media/quote-bg-v3.jpg": "/DomainDeck-GDSE/static/media/quote-bg-v3.6f44f90b0466611df27b.jpg",
+    "index.html": "/DomainDeck-GDSE/index.html",
+    "main.8c470f3a.css.map": "/DomainDeck-GDSE/static/css/main.8c470f3a.css.map",
+    "main.936fc99d.js.map": "/DomainDeck-GDSE/static/js/main.936fc99d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/DomainDeck-GDSE/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c470f3a.css",
+    "static/js/main.936fc99d.js"
+  ]
+}
