@@ -12,12 +12,12 @@ function Preheader() {
               <ul className="info">
                 <li>
                   <a href="#">
-                    <i className="fa fa-envelope"></i>dhananjaysingh.chauhan2021@vitstudent.ac.in
+                    <i className="fa fa-envelope"></i>By Dhananjay and Omkar
                   </a>
                 </li>
                 <li>
                   <a href="#">
-                    <i className="fa fa-phone"></i>7018332852
+                    <i className="fa fa-phone"></i>7018332852 , 8919891407
                   </a>
                 </li>
               </ul>
